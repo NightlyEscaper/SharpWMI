@@ -15,12 +15,12 @@
         {
             "os": "windows",
             "arch": "amd64",
-            "path": "Certify.exe"
+            "path": "SharpWMI.exe"
         },
         {
             "os": "windows",
             "arch": "386",
-            "path": "Certify.exe"
+            "path": "SharpWMI.exe"
         }
     ]
 }
