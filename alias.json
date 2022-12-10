@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "command_name": "sharp-wmi",
     "original_author": "@GhostPack (HarmJ0y)",
-    "repo_url": "https://github.com/sliverarmory/SharpWMI",
+    "repo_url": "https://github.com/NightlyEscaper/SharpWMI",
     "help": "C# implementation of various WMI functionality",
 
     "entrypoint": "Main",
