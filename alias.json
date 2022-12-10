@@ -1,7 +1,7 @@
 {
     "name": "Sharp WMI",
     "version": "0.0.0",
-    "command_name": "sharp-wmi",
+    "command_name": "sharpwmi",
     "original_author": "@GhostPack (HarmJ0y)",
     "repo_url": "https://github.com/NightlyEscaper/SharpWMI",
     "help": "C# implementation of various WMI functionality",
